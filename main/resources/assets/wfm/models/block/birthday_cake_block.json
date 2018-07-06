@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "wfm:blocks/birthday_cake_block"
+   }
+}
