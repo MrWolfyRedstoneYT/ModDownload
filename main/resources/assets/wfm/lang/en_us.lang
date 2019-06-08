@@ -1,0 +1,13 @@
+
+//Items
+item.cherry.name=Cherry
+item.bottle_of_milk.name=Bottle of Milk
+item.candle.name=Candle
+item.flour.name=Flour
+item.knife.name=Knife
+
+//Blocks
+tile.birthday_cake_block.name=Birthday Cake Block
+
+//Creative Tab
+itemGroup.furnituretab=Furniture Mod
